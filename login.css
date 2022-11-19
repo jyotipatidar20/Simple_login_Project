@@ -1,0 +1,59 @@
+#mainContainer{
+    width: 1000px;
+    height: 800px;
+    border: 1px solid black;
+    display: flex;
+    box-shadow: 49px;
+    /* align-self: center; */
+    margin: auto;
+    flex-direction: row;
+}
+#container1{
+    width: 75%;
+    height: 100%;
+    margin-right: 100px;
+    text-align:center;
+    margin-top: 70px;
+    box-sizing: 10%;
+
+
+    /* border: 1px solid red; */
+}
+#container2{
+    width: 45%;
+    height: 100%;
+    background-color: rgb(5, 169, 5);
+}
+#subheading{
+    color: grey;
+    margin-top: 5%;
+    /* padding: 1%; */
+    /* size: 10%; */
+
+}
+#pic{
+    margin-top: 10%;
+    margin-right: 5%;
+}
+#box{
+    border-radius: 300%;
+    width: 150px;
+    height: 100px;
+    margin-left: 160px;
+}
+#secondbox{
+    text-align: center;
+    margin-top: 50%;
+}
+#signbox{
+    margin-top: 20%;
+}
+#secondsignbox{
+    margin-top: 20%;
+}
+#or{
+    display: flex;
+    /* direction:; */
+    margin-left: 25%;
+    color: black;
+}
